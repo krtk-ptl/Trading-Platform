@@ -22,7 +22,6 @@ function HomePage() {
         <OpenAccount />
         <Footer/>
         <Navbar />
-
       </>
   );
 }
